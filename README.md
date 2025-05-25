@@ -94,7 +94,9 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/user-attachments/assets/67d8a615-6981-4308-b262-40a2ecff25e8)
+
+![image](https://github.com/user-attachments/assets/ed02cd04-0d2d-4aa1-b806-cc3d51fd89ce)
+
 
 **RESULTS**
 Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
